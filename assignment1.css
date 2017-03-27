@@ -70,4 +70,19 @@ li a:hover {
 	background-color: #FFF9FF;
 	float:left;
 	width:30%;
-	
+}
+
+p {
+	line-height: 110%;
+}
+
+ul {
+	list-style-type: disc;
+
+}
+
+footer {
+	background-color: #5c7da7;
+	text-align: center;
+	text-decoration: none;
+}
